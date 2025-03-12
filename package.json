@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@ag-grid-community/core": "^32.3.4",
+        "@vitejs/plugin-vue": "^4.2.3",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "vite": "^4.5.9",
+        "vue-sweetalert2": "^5.0.11"
+    },
+    "dependencies": {
+        "@ag-grid-community/vue3": "^32.3.0",
+        "ag-grid-community": "^32.3.0",
+        "ag-grid-enterprise": "^32.3.0",
+
+        "bootstrap-vue-3": "^0.5.1",
+        "pinia": "^3.0.1",
+        "sweetalert2": "^11.17.2",
+        "tabulator-tables": "^6.3.1",
+        "vue": "^3.5.13",
+        "vue-loader": "^17.4.2",
+        "vue-router": "^4.5.0",
+        "vue3-toastify": "^0.2.8"
+    }
+}

@@ -1,0 +1,6 @@
+php artisan make:command UpdateStockStatus
+
+php artisan app:update-stock-status
+
+* * * * * php /our-project-path-on-server/artisan schedule:run >> /dev/null 2>&1
+
